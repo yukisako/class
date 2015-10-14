@@ -1,0 +1,26 @@
+
+% ページ設定
+\setlength{\oddsidemargin}{0.5cm}       % 本文左余白 
+\setlength{\topmargin}{-0.4in}          % 本文頭余白 
+\setlength{\topskip}{0in}               % 本文頭余白 
+\setlength{\textheight}{9.2in}          % 本文高さ 
+\setlength{\textwidth}{6in}             % 本文幅 
+
+% 数式番号に章番号を追加
+\makeatletter
+\@addtoreset{equation}{section}
+\def\theequation{\thesection.\arabic{equation}}
+\makeatother
+
+% 図番号に章番号を追加
+\makeatletter
+\@addtoreset{figure}{section}
+\def\thefigure{\thesection.\arabic{figure}}
+\makeatother
+
+% 表番号に章番号を追加
+\makeatletter
+\@addtoreset{table}{section}
+\def\thetable{\thesection.\arabic{table}}
+\makeatother
+
