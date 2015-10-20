@@ -1,5 +1,5 @@
 int beat = 500;  // 音の長さを指定
-#define PINNO 12   // 圧電スピーカを接続したピン番号
+#define SPEAKER 12   // 圧電スピーカを接続したピン番号
 
 void setup() {
 }
@@ -8,40 +8,40 @@ void loop() {
 }
 
 void doo(){
-     tone(PINNO,262,beat) ;  // ド
+     tone(SPEAKER,262,beat) ;  // ド
      delay(beat) ;
 }
 
 void le(){
-     tone(PINNO,294,beat) ;  // レ
+     tone(SPEAKER,294,beat) ;  // レ
      delay(beat) ;
 }
 void me(){
-     tone(PINNO,330,beat) ;  // ミ
+     tone(SPEAKER,330,beat) ;  // ミ
      delay(beat) ;
 }
 
 void fa(){
-     tone(PINNO,349,beat) ;  // ファ
+     tone(SPEAKER,349,beat) ;  // ファ
      delay(beat) ;
 }
 void so(){
-     tone(PINNO,392,beat) ;  // ソ
+     tone(SPEAKER,392,beat) ;  // ソ
      delay(beat) ;
 }
 
 void la(){
-     tone(PINNO,440,beat) ;  // ラ
+     tone(SPEAKER,440,beat) ;  // ラ
      delay(beat) ;
 }
 
 void si(){
-     tone(PINNO,494,beat) ;  // シ
+     tone(SPEAKER,494,beat) ;  // シ
      delay(beat) ;
 }
 
 void frog(){
-    doo();
+  doo();
   le();
   me();
   fa();
