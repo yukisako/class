@@ -1,5 +1,4 @@
-#include <LiquidCrystal.h>
-int beat = 500;  // 音の長さを指定
+include <LiquidCrystal.h>
 #define SPEAKER 12   // 圧電スピーカを接続したピン番号
 #define MOIST A1
 #define CDS A2
@@ -7,6 +6,7 @@ int beat = 500;  // 音の長さを指定
 #define YEL 6
 #define BLU 7
 #define TMP A0
+int beat = 500;  // 音の長さを指定
 
 void setup(){
   Serial.begin(9600);
@@ -19,7 +19,7 @@ void loop(){
   int ans , temp , moi, brightness;
   moi = analogRead(A1);
   Serial.println("-----------------------------");
-  Serial.println("<Plannt information>");
+  Serial.println("<Planet Information>");
   brightness = analogRead(CDS);
   delay(100);
   light_led(brightness);

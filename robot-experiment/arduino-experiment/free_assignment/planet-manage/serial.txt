@@ -1,0 +1,4236 @@
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 81
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 24.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 24.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 33.0
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 32.5
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 32.0
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 50
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 49
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 48
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 46
+  Tempreture: 26.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 25.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 25.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 60
+  Tempreture: 26.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 53
+  Tempreture: 26.7
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 57
+  Tempreture: 26.2
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 57
+  Tempreture: 27.1
+  Moisture  : 95
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.1
+  Moisture  : 88
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.1
+  Moisture  : 85
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.1
+  Moisture  : 84
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.1
+  Moisture  : 83
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.1
+  Moisture  : 82
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.1
+  Moisture  : 82
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.1
+  Moisture  : 82
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.1
+  Moisture  : 82
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 66
+  Tempreture: 27.1
+  Moisture  : 81
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 61
+  Tempreture: 27.1
+  Moisture  : 78
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 60
+  Tempreture: 27.1
+  Moisture  : 31
+Soil is dry!!
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 62
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 59
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 59
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 71
+  Tempreture: 29.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 70
+  Tempreture: 29.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 71
+  Tempreture: 30.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 68
+  Tempreture: 30.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 69
+  Tempreture: 30.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 69
+  Tempreture: 30.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 80
+  Tempreture: 30.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 26
+  Tempreture: 29.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 25
+  Tempreture: 29.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 22
+  Tempreture: 29.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 23
+  Tempreture: 29.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 25
+  Tempreture: 29.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 26
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 29.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 54
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 14
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 10
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 8
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 28.6
+  Moisture  : 96
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 28.6
+  Moisture  : 90
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 28.6
+  Moisture  : 88
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 87
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 87
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 28.6
+  Moisture  : 85
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 84
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 78
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.6
+  Moisture  : 79
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 28.1
+  Moisture  : 51
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 81
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 80
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 80
+  Tempreture: 28.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 28.6
+  Moisture  : 85
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 28.6
+  Moisture  : 76
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.1
+  Moisture  : 74
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.1
+  Moisture  : 73
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 28.1
+  Moisture  : 72
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 28.6
+  Moisture  : 71
+Soil is wet!!
+-----------------------------
+<Plannt information>
+  Brightness: 80
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 81
+  Tempreture: 28.1
+  Moisture  : 31
+Soil is dry!!
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 81
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 81
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 81
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 80
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 77
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 78
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 78
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 79
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 87
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 78
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 73
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 72
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 28.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 72
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 73
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 73
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 77
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 76
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 75
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 74
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 82
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 83
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.1
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 86
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 85
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected
+-----------------------------
+<Plannt information>
+  Brightness: 84
+  Tempreture: 27.6
+  Moisture  : 0
+Sensor is not connected

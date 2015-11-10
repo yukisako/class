@@ -1,0 +1,5 @@
+<Planet information>
+  Brightness: 84
+  Tempreture: 24.2
+  Moisture  : 0
+Sensor is not connected

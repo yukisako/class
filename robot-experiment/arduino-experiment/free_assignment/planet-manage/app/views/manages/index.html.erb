@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="index.css" type="text/css" />
+  </head>
+  <body>
+    <header>
+      <div id="logo">
+        <h1>　<h1>
+      </div>
+    </header>
+    <div class="container">
+    	<center>
+    	  <h1>植物状態管理システム</h1>
+    	  <h3><%=@date%>の植物の状態</h3>
+    	  <br>
+		  <% @info.split("-----------------------------").each do |doc| %>
+		  	<% doc.split("\n").each do |line| %>
+		  	  <% if  line =~ /Plannt information/ %>
+		  	  	<% @count = 0 %>
+		      <% end %>
+		      <% @line[@count] = line %>
+		      <% @count += 1 %>
+		    <% end %>
+		  <% end %>
+		  <% 4.times do |i| %>
+		  <p><%= @line[i+1] %></p>
+		   <% end %>
+  	    </center>
+
+      <footer>
+        <hr />
+        <p>&copy; 2015 Yuki Sako.</p>
+      </footer>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  </body>
+</html>
