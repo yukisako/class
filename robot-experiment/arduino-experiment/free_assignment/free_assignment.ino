@@ -1,4 +1,4 @@
-include <LiquidCrystal.h>
+#include <LiquidCrystal.h>
 #define SPEAKER 12   // 圧電スピーカを接続したピン番号
 #define MOIST A1
 #define CDS A2
@@ -36,7 +36,7 @@ void loop(){
   Serial.print("  Tempreture: ");
   Serial.println(tempreture, 1);
   Serial.print("  Moisture  : ");
-  moi = map(moi, 650, 820, 0, 100);
+  moi = map(moi, 550, 820, 0, 100);
   if (moi<0) moi = 0;
   if (moi>100) moi = 100;
   Serial.println(moi);  

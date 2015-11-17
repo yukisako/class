@@ -18,15 +18,15 @@
     	  <br>
 		  <% @info.split("-----------------------------").each do |doc| %>
 		  	<% doc.split("\n").each do |line| %>
-		  	  <% if  line =~ /Plannt information/ %>
+		  	  <% if  line =~ /Planet Information/ %>
 		  	  	<% @count = 0 %>
 		      <% end %>
 		      <% @line[@count] = line %>
 		      <% @count += 1 %>
 		    <% end %>
 		  <% end %>
-		  <% 4.times do |i| %>
-		  <p><%= @line[i+1] %></p>
+		  <% 5.times do |i| %>
+		  <p><%= @line[i] %></p>
 		   <% end %>
   	    </center>
 
